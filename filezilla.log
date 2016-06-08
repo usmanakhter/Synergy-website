@@ -1,0 +1,130 @@
+2016-05-18 11:18:14 10644 1 Status: Connected
+2016-05-18 11:18:15 10644 1 Status: Starting upload of /home/usman/Desktop/tf-free-no.3/index.html
+2016-05-18 11:18:15 10644 1 Command: CWD /
+2016-05-18 11:18:15 10644 1 Response: 250 OK. Current directory is /
+2016-05-18 11:18:16 10644 1 Command: TYPE A
+2016-05-18 11:18:17 10644 1 Response: 200 TYPE is now ASCII
+2016-05-18 11:18:17 10644 1 Command: PASV
+2016-05-18 11:18:17 10644 1 Response: 227 Entering Passive Mode (50,63,122,1,198,135)
+2016-05-18 11:18:17 10644 1 Command: STOR index.html
+2016-05-18 11:18:17 10644 1 Response: 150 Accepted data connection
+2016-05-18 11:18:18 10644 1 Response: 226-File successfully transferred
+2016-05-18 11:18:18 10644 1 Response: 226 0.120 seconds (measured here), 272.96 Kbytes per second
+2016-05-18 11:18:18 10644 1 Status: File transfer successful, transferred 34.3 KB in 1 second
+2016-05-18 11:19:18 10644 1 Status: Disconnected from server
+2016-05-18 11:19:34 10644 1 Status: Connecting to 50.63.122.1:21...
+2016-05-18 11:19:34 10644 1 Status: Connection established, waiting for welcome message...
+2016-05-18 11:19:34 10644 1 Response: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2016-05-18 11:19:34 10644 1 Response: 220-You are user number 4 of 500 allowed.
+2016-05-18 11:19:34 10644 1 Response: 220-Local time is now 09:19. Server port: 21.
+2016-05-18 11:19:34 10644 1 Response: 220-This is a private system - No anonymous login
+2016-05-18 11:19:34 10644 1 Response: 220 You will be disconnected after 3 minutes of inactivity.
+2016-05-18 11:19:34 10644 1 Command: USER usmanakhter
+2016-05-18 11:19:34 10644 1 Response: 331 User usmanakhter OK. Password required
+2016-05-18 11:19:34 10644 1 Command: PASS **********
+2016-05-18 11:19:34 10644 1 Response: 230 OK. Current restricted directory is /
+2016-05-18 11:19:34 10644 1 Command: OPTS UTF8 ON
+2016-05-18 11:19:35 10644 1 Response: 200 OK, UTF-8 enabled
+2016-05-18 11:19:35 10644 1 Status: Connected
+2016-05-18 11:19:35 10644 1 Status: Starting upload of /home/usman/Desktop/tf-free-no.3/index.html
+2016-05-18 11:19:35 10644 1 Command: CWD /
+2016-05-18 11:19:35 10644 1 Response: 250 OK. Current directory is /
+2016-05-18 11:19:35 10644 1 Status: Retrieving directory listing...
+2016-05-18 11:19:35 10644 1 Command: TYPE I
+2016-05-18 11:19:35 10644 1 Response: 200 TYPE is now 8-bit binary
+2016-05-18 11:19:35 10644 1 Command: PASV
+2016-05-18 11:19:35 10644 1 Response: 227 Entering Passive Mode (50,63,122,1,195,179)
+2016-05-18 11:19:35 10644 1 Command: MLSD
+2016-05-18 11:19:35 10644 1 Response: 150 Accepted data connection
+2016-05-18 11:19:40 10644 2 Status: Connecting to 50.63.122.1:21...
+2016-05-18 11:19:40 10644 2 Status: Connection established, waiting for welcome message...
+2016-05-18 11:19:40 10644 2 Response: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2016-05-18 11:19:40 10644 2 Response: 220-You are user number 5 of 500 allowed.
+2016-05-18 11:19:40 10644 2 Response: 220-Local time is now 09:19. Server port: 21.
+2016-05-18 11:19:40 10644 2 Response: 220-This is a private system - No anonymous login
+2016-05-18 11:19:40 10644 2 Response: 220 You will be disconnected after 3 minutes of inactivity.
+2016-05-18 11:19:40 10644 2 Command: USER usmanakhter
+2016-05-18 11:19:40 10644 2 Response: 331 User usmanakhter OK. Password required
+2016-05-18 11:19:40 10644 2 Command: PASS **********
+2016-05-18 11:19:40 10644 2 Response: 230 OK. Current restricted directory is /
+2016-05-18 11:19:40 10644 2 Command: OPTS UTF8 ON
+2016-05-18 11:19:40 10644 2 Response: 200 OK, UTF-8 enabled
+2016-05-18 11:19:40 10644 2 Status: Connected
+2016-05-18 11:19:40 10644 2 Status: Starting upload of /home/usman/Desktop/tf-free-no.3/index.html
+2016-05-18 11:19:40 10644 2 Command: CWD /
+2016-05-18 11:19:40 10644 2 Response: 250 OK. Current directory is /
+2016-05-18 11:19:40 10644 2 Status: Retrieving directory listing...
+2016-05-18 11:19:47 10644 1 Response: 226-Options: -a -l 
+2016-05-18 11:19:47 10644 1 Response: 226 4346 matches total
+2016-05-18 11:19:49 10644 1 Command: TYPE A
+2016-05-18 11:19:49 10644 1 Response: 200 TYPE is now ASCII
+2016-05-18 11:19:49 10644 1 Command: PASV
+2016-05-18 11:19:49 10644 1 Response: 227 Entering Passive Mode (50,63,122,1,196,130)
+2016-05-18 11:19:49 10644 1 Command: STOR index.html
+2016-05-18 11:19:49 10644 1 Response: 150 Accepted data connection
+2016-05-18 11:19:50 10644 2 Command: TYPE A
+2016-05-18 11:19:50 10644 2 Response: 200 TYPE is now ASCII
+2016-05-18 11:19:50 10644 2 Command: PASV
+2016-05-18 11:19:50 10644 2 Response: 227 Entering Passive Mode (50,63,122,1,197,184)
+2016-05-18 11:19:50 10644 2 Command: STOR index.html
+2016-05-18 11:19:50 10644 2 Response: 150 Accepted data connection
+2016-05-18 11:19:50 10644 1 Response: 226-File successfully transferred
+2016-05-18 11:19:50 10644 1 Response: 226 0.126 seconds (measured here), 261.37 Kbytes per second
+2016-05-18 11:19:50 10644 1 Status: File transfer successful, transferred 34.3 KB in 1 second
+2016-05-18 11:19:51 10644 2 Response: 226-File successfully transferred
+2016-05-18 11:19:51 10644 2 Response: 226 0.127 seconds (measured here), 258.86 Kbytes per second
+2016-05-18 11:19:51 10644 2 Status: File transfer successful, transferred 34.3 KB in 1 second
+2016-05-18 11:20:50 10644 1 Status: Disconnected from server
+2016-05-18 11:20:51 10644 2 Status: Disconnected from server
+2016-06-06 16:22:47 6048 3 Status: Connecting to 50.63.122.1:21...
+2016-06-06 16:22:47 6048 3 Status: Connection established, waiting for welcome message...
+2016-06-06 16:22:47 6048 3 Response: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2016-06-06 16:22:47 6048 3 Response: 220-You are user number 6 of 500 allowed.
+2016-06-06 16:22:47 6048 3 Response: 220-Local time is now 14:22. Server port: 21.
+2016-06-06 16:22:47 6048 3 Response: 220-This is a private system - No anonymous login
+2016-06-06 16:22:47 6048 3 Response: 220 You will be disconnected after 3 minutes of inactivity.
+2016-06-06 16:22:47 6048 3 Command: USER usmanakhter
+2016-06-06 16:22:47 6048 3 Response: 331 User usmanakhter OK. Password required
+2016-06-06 16:22:47 6048 3 Command: PASS *********
+2016-06-06 16:22:50 6048 3 Response: 530 Login authentication failed
+2016-06-06 16:22:50 6048 3 Error: Critical error
+2016-06-06 16:22:50 6048 3 Error: Could not connect to server
+2016-06-06 16:22:57 6048 3 Status: Connecting to 50.63.122.1:21...
+2016-06-06 16:22:57 6048 3 Status: Connection established, waiting for welcome message...
+2016-06-06 16:22:57 6048 3 Response: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2016-06-06 16:22:57 6048 3 Response: 220-You are user number 6 of 500 allowed.
+2016-06-06 16:22:57 6048 3 Response: 220-Local time is now 14:22. Server port: 21.
+2016-06-06 16:22:57 6048 3 Response: 220-This is a private system - No anonymous login
+2016-06-06 16:22:57 6048 3 Response: 220 You will be disconnected after 3 minutes of inactivity.
+2016-06-06 16:22:57 6048 3 Command: USER usmanakhter
+2016-06-06 16:22:57 6048 3 Response: 331 User usmanakhter OK. Password required
+2016-06-06 16:22:57 6048 3 Command: PASS *********
+2016-06-06 16:23:02 6048 3 Response: 530 Login authentication failed
+2016-06-06 16:23:02 6048 3 Error: Critical error
+2016-06-06 16:23:02 6048 3 Error: Could not connect to server
+2016-06-06 16:24:31 6048 3 Status: Connecting to 50.63.122.1:21...
+2016-06-06 16:24:31 6048 3 Status: Connection established, waiting for welcome message...
+2016-06-06 16:24:31 6048 3 Response: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2016-06-06 16:24:31 6048 3 Response: 220-You are user number 6 of 500 allowed.
+2016-06-06 16:24:31 6048 3 Response: 220-Local time is now 14:24. Server port: 21.
+2016-06-06 16:24:31 6048 3 Response: 220-This is a private system - No anonymous login
+2016-06-06 16:24:31 6048 3 Response: 220 You will be disconnected after 3 minutes of inactivity.
+2016-06-06 16:24:31 6048 3 Command: USER usmanakhter
+2016-06-06 16:24:31 6048 3 Response: 331 User usmanakhter OK. Password required
+2016-06-06 16:24:31 6048 3 Command: PASS *********
+2016-06-06 16:24:35 6048 3 Response: 530 Login authentication failed
+2016-06-06 16:24:35 6048 3 Error: Critical error
+2016-06-06 16:24:35 6048 3 Error: Could not connect to server
+2016-06-06 16:25:13 6048 3 Status: Connecting to 50.63.122.1:21...
+2016-06-06 16:25:13 6048 3 Status: Connection established, waiting for welcome message...
+2016-06-06 16:25:13 6048 3 Response: 220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+2016-06-06 16:25:13 6048 3 Response: 220-You are user number 6 of 500 allowed.
+2016-06-06 16:25:13 6048 3 Response: 220-Local time is now 14:25. Server port: 21.
+2016-06-06 16:25:13 6048 3 Response: 220-This is a private system - No anonymous login
+2016-06-06 16:25:13 6048 3 Response: 220 You will be disconnected after 3 minutes of inactivity.
+2016-06-06 16:25:13 6048 3 Command: USER usmanakhter
+2016-06-06 16:25:13 6048 3 Response: 331 User usmanakhter OK. Password required
+2016-06-06 16:25:13 6048 3 Command: PASS **********
+2016-06-06 16:25:16 6048 3 Response: 530 Login authentication failed
+2016-06-06 16:25:16 6048 3 Error: Critical error
+2016-06-06 16:25:16 6048 3 Error: Could not connect to server
